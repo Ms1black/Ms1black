@@ -8,3 +8,7 @@
 Full Stack Web Developer, ML Engineer
 </h2>
 </div>
+
+<p align="center">
+  <a href="https://github.com/ms1black"><img src="https://github-readme-stats.vercel.app/api?username=ms1black&hide_border=true&show_icons=true" alt="yuna0x0's github stats"></a>
+</p>
