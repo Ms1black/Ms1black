@@ -5,6 +5,9 @@
 * e-mail: li304ko3@gmail.com
 * CV: [current resume](#) 
 
+Fields of Interests: Fullstack, Blockchain, Design, Classic Machine Learning, Music, Computer games
+
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ms1black)](https://git.io/streak-stats)
 ## Pinned Projects: 
 
