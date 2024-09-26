@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=3500&pause=2000&color=0B2631&repeat=false&width=435&lines=Hi%2C+i'm+Ms1black!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=3500&pause=2000&color=0B2631&repeat=false&width=435&lines=Hi%2C+i'm+Ms1black!)](https://git.io/typing-svg) \
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&duration=3500&pause=10000&color=0B2631&repeat=false&width=435&lines=engineer+student+at+BMSTU)](https://git.io/typing-svg)
 
 * Telegram: [@ms1black](https://t.me/ms1black)
