@@ -5,7 +5,7 @@
 * e-mail: li304ko3@gmail.com
 * CV: [current resume](#) 
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ms1black)](https://git.io/streak-stats)
 ## Pinned Projects: 
 
 ### [NFT store. All-Russian Championship "Professionality" (15th place)]()
