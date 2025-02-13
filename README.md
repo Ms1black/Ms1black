@@ -24,4 +24,7 @@ creation of an NFT store based on ERC1155 and ERC20 standards with auction suppo
 
 *Worked with*: ganache, ethereum, solidity, remixIDE
 
+### [International programming championship Yandex Cup 2024 (196/683th place)]()
+Frontend. Proficiency in functional and reactive programming, Working with events and asynchronous programming..etc.
 
+*Worked with*: JavaScript
