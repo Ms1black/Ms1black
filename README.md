@@ -14,7 +14,7 @@
 
 Fields of Interests: Fullstack, Blockchain, Design, Classic Machine Learning, Music, Computer games
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31pbxjntmjr6yrdy5gi3dbgkkgcq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=fcccff&interchange=true&bar_color=7598ff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31pbxjntmjr6yrdy5gi3dbgkkgcq&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31pbxjntmjr6yrdy5gi3dbgkkgcq&cover_image=true&theme=natemoo-re&show_offline=true&background_color=fcccff&interchange=true&bar_color=7598ff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31pbxjntmjr6yrdy5gi3dbgkkgcq&redirect=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ms1black)](https://git.io/streak-stats)
 
