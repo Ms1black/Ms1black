@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWI0djh4c3lzeDZtcm1oM204eng1NzhxZzljbDczc3RmajkxcWNjMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ovWn8N8TVg8hi/giphy.gif" />
+<img align="right" alt="GIF" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODM3MjZjcTY2bjcxNDVuYmJ5d3c2dGdyeXU4ejJibTU0Z3JpYWpqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9hXT5I4TekIeCzp4b8/giphy.gif" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=3500&pause=2000&color=0B2631&repeat=false&width=435&lines=Hi%2C+i'm+Ms1black!)](https://git.io/typing-svg) \
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&duration=3500&pause=10000&color=0B2631&repeat=false&width=435&lines=engineer+student+at+BMSTU)](https://git.io/typing-svg)
